@@ -31,7 +31,7 @@ U 1 1 5B722503
 P 5800 4850
 F 0 "SW25" H 5800 5000 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 4750 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 5800 4850 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 5800 4850 50  0001 C CNN
 F 3 "" H 5800 4850 50  0000 C CNN
 	1    5800 4850
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5B722582
 P 6600 4850
 F 0 "SW26" H 6600 5000 50  0000 C CNN
 F 1 "SW_PUSH" H 6600 4750 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 6600 4850 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 6600 4850 50  0001 C CNN
 F 3 "" H 6600 4850 50  0000 C CNN
 	1    6600 4850
 	1    0    0    -1  
@@ -53,7 +53,7 @@ U 1 1 5B7225DA
 P 5800 2250
 F 0 "SW1" H 5800 2400 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 2150 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 5800 2250 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 5800 2250 50  0001 C CNN
 F 3 "" H 5800 2250 50  0000 C CNN
 	1    5800 2250
 	1    0    0    -1  
@@ -75,7 +75,7 @@ U 1 1 5B7227CD
 P 6600 2250
 F 0 "SW2" H 6600 2400 50  0000 C CNN
 F 1 "SW_PUSH" H 6600 2150 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 6600 2250 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 6600 2250 50  0001 C CNN
 F 3 "" H 6600 2250 50  0000 C CNN
 	1    6600 2250
 	1    0    0    -1  
@@ -97,7 +97,7 @@ U 1 1 5B7228F7
 P 7400 2250
 F 0 "SW3" H 7400 2400 50  0000 C CNN
 F 1 "SW_PUSH" H 7400 2150 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 7400 2250 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 7400 2250 50  0001 C CNN
 F 3 "" H 7400 2250 50  0000 C CNN
 	1    7400 2250
 	1    0    0    -1  
@@ -119,7 +119,7 @@ U 1 1 5B722A11
 P 8200 2250
 F 0 "SW4" H 8200 2400 50  0000 C CNN
 F 1 "SW_PUSH" H 8200 2150 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 8200 2250 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 8200 2250 50  0001 C CNN
 F 3 "" H 8200 2250 50  0000 C CNN
 	1    8200 2250
 	1    0    0    -1  
@@ -141,7 +141,7 @@ U 1 1 5B722B51
 P 9000 2250
 F 0 "SW5" H 9000 2400 50  0000 C CNN
 F 1 "SW_PUSH" H 9000 2150 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9000 2250 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9000 2250 50  0001 C CNN
 F 3 "" H 9000 2250 50  0000 C CNN
 	1    9000 2250
 	1    0    0    -1  
@@ -163,7 +163,7 @@ U 1 1 5B722CA9
 P 9800 2250
 F 0 "SW6" H 9800 2400 50  0000 C CNN
 F 1 "SW_PUSH" H 9800 2200 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9800 2250 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9800 2250 50  0001 C CNN
 F 3 "" H 9800 2250 50  0000 C CNN
 	1    9800 2250
 	1    0    0    -1  
@@ -185,7 +185,7 @@ U 1 1 5B723388
 P 6600 2900
 F 0 "SW8" H 6600 3050 50  0000 C CNN
 F 1 "SW_PUSH" H 6600 2800 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 6600 2900 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 6600 2900 50  0001 C CNN
 F 3 "" H 6600 2900 50  0000 C CNN
 	1    6600 2900
 	1    0    0    -1  
@@ -196,7 +196,7 @@ U 1 1 5B723731
 P 7400 2900
 F 0 "SW9" H 7400 3050 50  0000 C CNN
 F 1 "SW_PUSH" H 7400 2800 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 7400 2900 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 7400 2900 50  0001 C CNN
 F 3 "" H 7400 2900 50  0000 C CNN
 	1    7400 2900
 	1    0    0    -1  
@@ -207,7 +207,7 @@ U 1 1 5B7237A6
 P 8200 2900
 F 0 "SW10" H 8200 3050 50  0000 C CNN
 F 1 "SW_PUSH" H 8200 2800 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 8200 2900 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 8200 2900 50  0001 C CNN
 F 3 "" H 8200 2900 50  0000 C CNN
 	1    8200 2900
 	1    0    0    -1  
@@ -218,7 +218,7 @@ U 1 1 5B72387D
 P 9000 2900
 F 0 "SW11" H 9000 3050 50  0000 C CNN
 F 1 "SW_PUSH" H 9000 2800 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9000 2900 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9000 2900 50  0001 C CNN
 F 3 "" H 9000 2900 50  0000 C CNN
 	1    9000 2900
 	1    0    0    -1  
@@ -229,7 +229,7 @@ U 1 1 5B723AD3
 P 9800 2900
 F 0 "SW12" H 9800 3050 50  0000 C CNN
 F 1 "SW_PUSH" H 9800 2800 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9800 2900 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9800 2900 50  0001 C CNN
 F 3 "" H 9800 2900 50  0000 C CNN
 	1    9800 2900
 	1    0    0    -1  
@@ -240,7 +240,7 @@ U 1 1 5B723C9D
 P 5800 2900
 F 0 "SW7" H 5800 3050 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 2800 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 5800 2900 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 5800 2900 50  0001 C CNN
 F 3 "" H 5800 2900 50  0000 C CNN
 	1    5800 2900
 	1    0    0    -1  
@@ -317,7 +317,7 @@ U 1 1 5B7250AD
 P 5800 3550
 F 0 "SW13" H 5800 3700 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 3450 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 5800 3550 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 5800 3550 50  0001 C CNN
 F 3 "" H 5800 3550 50  0000 C CNN
 	1    5800 3550
 	1    0    0    -1  
@@ -328,7 +328,7 @@ U 1 1 5B725133
 P 6600 3550
 F 0 "SW14" H 6600 3700 50  0000 C CNN
 F 1 "SW_PUSH" H 6600 3450 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 6600 3550 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 6600 3550 50  0001 C CNN
 F 3 "" H 6600 3550 50  0000 C CNN
 	1    6600 3550
 	1    0    0    -1  
@@ -339,7 +339,7 @@ U 1 1 5B7251BF
 P 7400 3550
 F 0 "SW15" H 7400 3700 50  0000 C CNN
 F 1 "SW_PUSH" H 7400 3450 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 7400 3550 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 7400 3550 50  0001 C CNN
 F 3 "" H 7400 3550 50  0000 C CNN
 	1    7400 3550
 	1    0    0    -1  
@@ -350,7 +350,7 @@ U 1 1 5B72524E
 P 8200 3550
 F 0 "SW16" H 8200 3700 50  0000 C CNN
 F 1 "SW_PUSH" H 8200 3450 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 8200 3550 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 8200 3550 50  0001 C CNN
 F 3 "" H 8200 3550 50  0000 C CNN
 	1    8200 3550
 	1    0    0    -1  
@@ -361,7 +361,7 @@ U 1 1 5B7252F1
 P 9000 3550
 F 0 "SW17" H 9000 3700 50  0000 C CNN
 F 1 "SW_PUSH" H 9000 3450 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9000 3550 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9000 3550 50  0001 C CNN
 F 3 "" H 9000 3550 50  0000 C CNN
 	1    9000 3550
 	1    0    0    -1  
@@ -372,7 +372,7 @@ U 1 1 5B725398
 P 9800 3550
 F 0 "SW18" H 9800 3700 50  0000 C CNN
 F 1 "SW_PUSH" H 9800 3450 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9800 3550 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9800 3550 50  0001 C CNN
 F 3 "" H 9800 3550 50  0000 C CNN
 	1    9800 3550
 	1    0    0    -1  
@@ -449,7 +449,7 @@ U 1 1 5B726F89
 P 7400 4200
 F 0 "SW21" H 7400 4350 50  0000 C CNN
 F 1 "SW_PUSH" H 7400 4100 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 7400 4200 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 7400 4200 50  0001 C CNN
 F 3 "" H 7400 4200 50  0000 C CNN
 	1    7400 4200
 	1    0    0    -1  
@@ -460,7 +460,7 @@ U 1 1 5B727035
 P 8200 4200
 F 0 "SW22" H 8200 4350 50  0000 C CNN
 F 1 "SW_PUSH" H 8200 4100 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 8200 4200 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 8200 4200 50  0001 C CNN
 F 3 "" H 8200 4200 50  0000 C CNN
 	1    8200 4200
 	1    0    0    -1  
@@ -471,7 +471,7 @@ U 1 1 5B7270F6
 P 9000 4200
 F 0 "SW23" H 9000 4350 50  0000 C CNN
 F 1 "SW_PUSH" H 9000 4100 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9000 4200 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9000 4200 50  0001 C CNN
 F 3 "" H 9000 4200 50  0000 C CNN
 	1    9000 4200
 	1    0    0    -1  
@@ -482,7 +482,7 @@ U 1 1 5B7271A5
 P 9800 4200
 F 0 "SW24" H 9800 4350 50  0000 C CNN
 F 1 "SW_PUSH" H 9800 4100 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9800 4200 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9800 4200 50  0001 C CNN
 F 3 "" H 9800 4200 50  0000 C CNN
 	1    9800 4200
 	1    0    0    -1  
@@ -493,7 +493,7 @@ U 1 1 5B727256
 P 6600 4200
 F 0 "SW20" H 6600 4350 50  0000 C CNN
 F 1 "SW_PUSH" H 6600 4100 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 6600 4200 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 6600 4200 50  0001 C CNN
 F 3 "" H 6600 4200 50  0000 C CNN
 	1    6600 4200
 	1    0    0    -1  
@@ -504,7 +504,7 @@ U 1 1 5B727312
 P 5800 4200
 F 0 "SW19" H 5800 4350 50  0000 C CNN
 F 1 "SW_PUSH" H 5800 4100 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 5800 4200 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 5800 4200 50  0001 C CNN
 F 3 "" H 5800 4200 50  0000 C CNN
 	1    5800 4200
 	1    0    0    -1  
@@ -581,7 +581,7 @@ U 1 1 5B7293B0
 P 7400 4850
 F 0 "SW27" H 7400 5000 50  0000 C CNN
 F 1 "SW_PUSH" H 7400 4750 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 7400 4850 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 7400 4850 50  0001 C CNN
 F 3 "" H 7400 4850 50  0000 C CNN
 	1    7400 4850
 	1    0    0    -1  
@@ -592,7 +592,7 @@ U 1 1 5B734347
 P 8200 4850
 F 0 "SW28" H 8200 5000 50  0000 C CNN
 F 1 "SW_PUSH" H 8200 4750 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 8200 4850 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 8200 4850 50  0001 C CNN
 F 3 "" H 8200 4850 50  0000 C CNN
 	1    8200 4850
 	1    0    0    -1  
@@ -603,7 +603,7 @@ U 1 1 5B73449B
 P 9000 4850
 F 0 "SW29" H 9000 5000 50  0000 C CNN
 F 1 "SW_PUSH" H 9000 4750 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 9000 4850 50  0001 C CNN
+F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap_edge" H 9000 4850 50  0001 C CNN
 F 3 "" H 9000 4850 50  0000 C CNN
 	1    9000 4850
 	1    0    0    -1  
