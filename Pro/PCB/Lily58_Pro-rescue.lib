@@ -1,48 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Device_Jumper
+# D-Lily58-cache
 #
-DEF Device_Jumper JP 0 30 Y N 1 F N
-F0 "JP" 0 150 50 H V C CNN
-F1 "Device_Jumper" 0 -80 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- SolderJumper*
-$ENDFPLIST
-DRAW
-A 0 -26 125 1426 373 0 1 0 N -98 50 99 50
-C -100 0 35 0 1 0 N
-C 100 0 35 0 1 0 N
-X 1 1 -300 0 165 R 50 50 0 1 P
-X 2 2 300 0 165 L 50 50 0 1 P
-ENDDRAW
-ENDDEF
-#
-# Device_Jumper_NO_Small
-#
-DEF Device_Jumper_NO_Small JP 0 30 N N 1 F N
-F0 "JP" 0 80 50 H V C CNN
-F1 "Device_Jumper_NO_Small" 10 -60 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-$FPLIST
- SolderJumper*Open*
-$ENDFPLIST
-DRAW
-C -40 0 20 0 1 0 N
-C 40 0 20 0 1 0 N
-X 1 1 -100 0 40 R 50 50 0 1 P
-X 2 2 100 0 40 L 50 50 0 1 P
-ENDDRAW
-ENDDEF
-#
-# Lily58_Pro-rescue_D-Lily58-cache
-#
-DEF Lily58_Pro-rescue_D-Lily58-cache D 0 40 N N 1 F N
+DEF D-Lily58-cache D 0 40 N N 1 F N
 F0 "D" 0 100 50 H V C CNN
-F1 "Lily58_Pro-rescue_D-Lily58-cache" 0 -100 50 H V C CNN
+F1 "D-Lily58-cache" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -60,11 +23,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_GND-Lily58-cache
+# GND-Lily58-cache
 #
-DEF Lily58_Pro-rescue_GND-Lily58-cache #PWR 0 0 Y Y 1 F P
+DEF GND-Lily58-cache #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -250 50 H I C CNN
-F1 "Lily58_Pro-rescue_GND-Lily58-cache" 0 -150 50 H V C CNN
+F1 "GND-Lily58-cache" 0 -150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -73,11 +36,11 @@ X GND 1 0 0 0 R 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_HOLE-Lily58-cache
+# HOLE-Lily58-cache
 #
-DEF Lily58_Pro-rescue_HOLE-Lily58-cache U 0 40 Y Y 1 F N
+DEF HOLE-Lily58-cache U 0 40 Y Y 1 F N
 F0 "U" 0 0 60 H V C CNN
-F1 "Lily58_Pro-rescue_HOLE-Lily58-cache" 0 -200 60 H V C CNN
+F1 "HOLE-Lily58-cache" 0 -200 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -86,11 +49,11 @@ S 150 200 -150 -150 0 1 0 N
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_LED-Lily58-cache
+# LED-Lily58-cache
 #
-DEF Lily58_Pro-rescue_LED-Lily58-cache J 0 40 Y N 1 F N
+DEF LED-Lily58-cache J 0 40 Y N 1 F N
 F0 "J" 0 200 50 H V C CNN
-F1 "Lily58_Pro-rescue_LED-Lily58-cache" 0 -200 50 H V C CNN
+F1 "LED-Lily58-cache" 0 -200 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -114,11 +77,11 @@ X Pin_3 3 200 -100 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_MJ-4PP-9-Lily58-cache
+# MJ-4PP-9-Lily58-cache
 #
-DEF Lily58_Pro-rescue_MJ-4PP-9-Lily58-cache J 0 40 Y Y 1 F N
+DEF MJ-4PP-9-Lily58-cache J 0 40 Y Y 1 F N
 F0 "J" -350 -300 60 H V C CNN
-F1 "Lily58_Pro-rescue_MJ-4PP-9-Lily58-cache" -150 250 60 H V C CNN
+F1 "MJ-4PP-9-Lily58-cache" -150 250 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -138,11 +101,11 @@ X ~ 4 450 150 150 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_OLED-Lily58-cache
+# OLED-Lily58-cache
 #
-DEF Lily58_Pro-rescue_OLED-Lily58-cache J 0 40 Y N 1 F N
+DEF OLED-Lily58-cache J 0 40 Y N 1 F N
 F0 "J" 0 250 50 H V C CNN
-F1 "Lily58_Pro-rescue_OLED-Lily58-cache" 100 0 50 V V C CNN
+F1 "OLED-Lily58-cache" 100 0 50 V V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 $FPLIST
@@ -164,11 +127,11 @@ X P4 4 -200 -150 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_PWR_FLAG-Lily58-cache
+# PWR_FLAG-Lily58-cache
 #
-DEF Lily58_Pro-rescue_PWR_FLAG-Lily58-cache #FLG 0 0 N N 1 F P
+DEF PWR_FLAG-Lily58-cache #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 0 50 H I C CNN
-F1 "Lily58_Pro-rescue_PWR_FLAG-Lily58-cache" 0 150 50 H V C CNN
+F1 "PWR_FLAG-Lily58-cache" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -177,11 +140,11 @@ X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_ProMicro_2-Lily58-cache
+# ProMicro_2-Lily58-cache
 #
-DEF Lily58_Pro-rescue_ProMicro_2-Lily58-cache U 0 40 Y Y 1 F N
+DEF ProMicro_2-Lily58-cache U 0 40 Y Y 1 F N
 F0 "U" 0 700 50 H V C CNN
-F1 "Lily58_Pro-rescue_ProMicro_2-Lily58-cache" 0 -700 50 H V C CNN
+F1 "ProMicro_2-Lily58-cache" 0 -700 50 H V C CNN
 F2 "" -50 100 50 H I C CNN
 F3 "" -50 100 50 H I C CNN
 DRAW
@@ -213,11 +176,11 @@ X D6(PD7) 9 -650 -250 200 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_R-Lily58-cache
+# R-Lily58-cache
 #
-DEF Lily58_Pro-rescue_R-Lily58-cache R 0 0 N Y 1 F N
+DEF R-Lily58-cache R 0 0 N Y 1 F N
 F0 "R" 0 0 50 V V C CNN
-F1 "Lily58_Pro-rescue_R-Lily58-cache" -100 0 50 V V C CNN
+F1 "R-Lily58-cache" -100 0 50 V V C CNN
 F2 "" -70 0 50 V I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -230,11 +193,11 @@ X ~ 2 0 -150 50 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_SW_PUSH-Lily58-cache
+# SW_PUSH-Lily58-cache
 #
-DEF Lily58_Pro-rescue_SW_PUSH-Lily58-cache SW 0 40 N N 1 F N
+DEF SW_PUSH-Lily58-cache SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "Lily58_Pro-rescue_SW_PUSH-Lily58-cache" 0 -80 50 H V C CNN
+F1 "SW_PUSH-Lily58-cache" 0 -80 50 H V C CNN
 F2 "" 0 0 50 H V C CNN
 F3 "" 0 0 50 H V C CNN
 DRAW
@@ -245,11 +208,11 @@ X 2 2 300 0 200 L 50 50 0 1 P I
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_SW_RST-Lily58-cache
+# SW_RST-Lily58-cache
 #
-DEF Lily58_Pro-rescue_SW_RST-Lily58-cache RSW 0 40 N N 1 F N
+DEF SW_RST-Lily58-cache RSW 0 40 N N 1 F N
 F0 "RSW" 100 100 40 H V C CNN
-F1 "Lily58_Pro-rescue_SW_RST-Lily58-cache" 0 -100 50 H V C CNN
+F1 "SW_RST-Lily58-cache" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -260,11 +223,11 @@ X 2 2 150 0 100 L 50 50 0 1 P I
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_VCC-Lily58-cache
+# VCC-Lily58-cache
 #
-DEF Lily58_Pro-rescue_VCC-Lily58-cache #PWR 0 0 Y Y 1 F P
+DEF VCC-Lily58-cache #PWR 0 0 Y Y 1 F P
 F0 "#PWR" 0 -150 50 H I C CNN
-F1 "Lily58_Pro-rescue_VCC-Lily58-cache" 0 150 50 H V C CNN
+F1 "VCC-Lily58-cache" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
@@ -274,11 +237,11 @@ X VCC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #
-# Lily58_Pro-rescue_i2c_pin-Lily58-cache
+# i2c_pin-Lily58-cache
 #
-DEF Lily58_Pro-rescue_i2c_pin-Lily58-cache J 0 40 Y N 1 F N
+DEF i2c_pin-Lily58-cache J 0 40 Y N 1 F N
 F0 "J" 0 100 50 H V C CNN
-F1 "Lily58_Pro-rescue_i2c_pin-Lily58-cache" 0 -100 50 H V C CNN
+F1 "i2c_pin-Lily58-cache" 0 -100 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 $FPLIST
@@ -293,33 +256,6 @@ DRAW
 S -50 5 0 -5 1 1 6 N
 S -50 50 50 -50 1 1 10 f
 X Pin_1 1 -200 0 150 R 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# power_GND
-#
-DEF power_GND #PWR 0 0 Y Y 1 F P
-F0 "#PWR" 0 -250 50 H I C CNN
-F1 "power_GND" 0 -150 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
-X GND 1 0 0 0 D 50 50 1 1 W N
-ENDDRAW
-ENDDEF
-#
-# power_VCC
-#
-DEF power_VCC #PWR 0 0 Y Y 1 F P
-F0 "#PWR" 0 -150 50 H I C CNN
-F1 "power_VCC" 0 150 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-C 0 75 25 0 1 0 N
-P 2 0 1 0 0 0 0 50 N
-X VCC 1 0 0 0 U 50 50 1 1 W N
 ENDDRAW
 ENDDEF
 #

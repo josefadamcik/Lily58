@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
-LIBS:Lily58_Socket-cache
-EELAYER 26 0
+LIBS:Lily58_Pro-cache
+EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Lily58-cache:ProMicro_2 U1
+L Lily58_Pro-rescue:ProMicro_2-Lily58-cache U1
 U 1 1 5B722440
 P 3200 2650
 F 0 "U1" H 3200 3350 60  0000 C CNN
@@ -26,7 +26,7 @@ F 3 "" H 3300 1600 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW25
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW25
 U 1 1 5B722503
 P 5800 4850
 F 0 "SW25" H 5800 5000 50  0000 C CNN
@@ -37,7 +37,7 @@ F 3 "" H 5800 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW26
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW26
 U 1 1 5B722582
 P 6600 4850
 F 0 "SW26" H 6600 5000 50  0000 C CNN
@@ -48,7 +48,7 @@ F 3 "" H 6600 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW1
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW1
 U 1 1 5B7225DA
 P 5800 2250
 F 0 "SW1" H 5800 2400 50  0000 C CNN
@@ -59,7 +59,7 @@ F 3 "" H 5800 2250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D1
+L Lily58_Pro-rescue:D-Lily58-cache D1
 U 1 1 5B7226E7
 P 6100 2400
 F 0 "D1" V 6146 2321 50  0000 R CNN
@@ -70,7 +70,7 @@ F 3 "" H 6100 2400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW2
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW2
 U 1 1 5B7227CD
 P 6600 2250
 F 0 "SW2" H 6600 2400 50  0000 C CNN
@@ -81,7 +81,7 @@ F 3 "" H 6600 2250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D2
+L Lily58_Pro-rescue:D-Lily58-cache D2
 U 1 1 5B722847
 P 6900 2400
 F 0 "D2" V 6946 2321 50  0000 R CNN
@@ -92,7 +92,7 @@ F 3 "" H 6900 2400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW3
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW3
 U 1 1 5B7228F7
 P 7400 2250
 F 0 "SW3" H 7400 2400 50  0000 C CNN
@@ -103,7 +103,7 @@ F 3 "" H 7400 2250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D3
+L Lily58_Pro-rescue:D-Lily58-cache D3
 U 1 1 5B722950
 P 7700 2400
 F 0 "D3" V 7746 2321 50  0000 R CNN
@@ -114,7 +114,7 @@ F 3 "" H 7700 2400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW4
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW4
 U 1 1 5B722A11
 P 8200 2250
 F 0 "SW4" H 8200 2400 50  0000 C CNN
@@ -125,7 +125,7 @@ F 3 "" H 8200 2250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D4
+L Lily58_Pro-rescue:D-Lily58-cache D4
 U 1 1 5B722A8F
 P 8500 2400
 F 0 "D4" V 8546 2321 50  0000 R CNN
@@ -136,7 +136,7 @@ F 3 "" H 8500 2400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW5
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW5
 U 1 1 5B722B51
 P 9000 2250
 F 0 "SW5" H 9000 2400 50  0000 C CNN
@@ -147,7 +147,7 @@ F 3 "" H 9000 2250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D5
+L Lily58_Pro-rescue:D-Lily58-cache D5
 U 1 1 5B722BAD
 P 9300 2400
 F 0 "D5" V 9346 2321 50  0000 R CNN
@@ -158,7 +158,7 @@ F 3 "" H 9300 2400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW6
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW6
 U 1 1 5B722CA9
 P 9800 2250
 F 0 "SW6" H 9800 2400 50  0000 C CNN
@@ -169,7 +169,7 @@ F 3 "" H 9800 2250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D6
+L Lily58_Pro-rescue:D-Lily58-cache D6
 U 1 1 5B722FE1
 P 10100 2400
 F 0 "D6" V 10146 2321 50  0000 R CNN
@@ -180,7 +180,7 @@ F 3 "" H 10100 2400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW8
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW8
 U 1 1 5B723388
 P 6600 2900
 F 0 "SW8" H 6600 3050 50  0000 C CNN
@@ -191,7 +191,7 @@ F 3 "" H 6600 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW9
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW9
 U 1 1 5B723731
 P 7400 2900
 F 0 "SW9" H 7400 3050 50  0000 C CNN
@@ -202,7 +202,7 @@ F 3 "" H 7400 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW10
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW10
 U 1 1 5B7237A6
 P 8200 2900
 F 0 "SW10" H 8200 3050 50  0000 C CNN
@@ -213,7 +213,7 @@ F 3 "" H 8200 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW11
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW11
 U 1 1 5B72387D
 P 9000 2900
 F 0 "SW11" H 9000 3050 50  0000 C CNN
@@ -224,7 +224,7 @@ F 3 "" H 9000 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW12
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW12
 U 1 1 5B723AD3
 P 9800 2900
 F 0 "SW12" H 9800 3050 50  0000 C CNN
@@ -235,7 +235,7 @@ F 3 "" H 9800 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW7
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW7
 U 1 1 5B723C9D
 P 5800 2900
 F 0 "SW7" H 5800 3050 50  0000 C CNN
@@ -246,7 +246,7 @@ F 3 "" H 5800 2900 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D7
+L Lily58_Pro-rescue:D-Lily58-cache D7
 U 1 1 5B723D94
 P 6100 3050
 F 0 "D7" V 6146 2971 50  0000 R CNN
@@ -257,7 +257,7 @@ F 3 "" H 6100 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D8
+L Lily58_Pro-rescue:D-Lily58-cache D8
 U 1 1 5B723E5F
 P 6900 3050
 F 0 "D8" V 6946 2971 50  0000 R CNN
@@ -268,7 +268,7 @@ F 3 "" H 6900 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D9
+L Lily58_Pro-rescue:D-Lily58-cache D9
 U 1 1 5B723FA1
 P 7700 3050
 F 0 "D9" V 7746 2971 50  0000 R CNN
@@ -279,7 +279,7 @@ F 3 "" H 7700 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D10
+L Lily58_Pro-rescue:D-Lily58-cache D10
 U 1 1 5B7240EA
 P 8500 3050
 F 0 "D10" V 8546 2971 50  0000 R CNN
@@ -290,7 +290,7 @@ F 3 "" H 8500 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D11
+L Lily58_Pro-rescue:D-Lily58-cache D11
 U 1 1 5B72424D
 P 9300 3050
 F 0 "D11" V 9346 2971 50  0000 R CNN
@@ -301,7 +301,7 @@ F 3 "" H 9300 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D12
+L Lily58_Pro-rescue:D-Lily58-cache D12
 U 1 1 5B7243C0
 P 10100 3050
 F 0 "D12" V 10146 2971 50  0000 R CNN
@@ -312,7 +312,7 @@ F 3 "" H 10100 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW13
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW13
 U 1 1 5B7250AD
 P 5800 3550
 F 0 "SW13" H 5800 3700 50  0000 C CNN
@@ -323,7 +323,7 @@ F 3 "" H 5800 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW14
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW14
 U 1 1 5B725133
 P 6600 3550
 F 0 "SW14" H 6600 3700 50  0000 C CNN
@@ -334,7 +334,7 @@ F 3 "" H 6600 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW15
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW15
 U 1 1 5B7251BF
 P 7400 3550
 F 0 "SW15" H 7400 3700 50  0000 C CNN
@@ -345,7 +345,7 @@ F 3 "" H 7400 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW16
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW16
 U 1 1 5B72524E
 P 8200 3550
 F 0 "SW16" H 8200 3700 50  0000 C CNN
@@ -356,7 +356,7 @@ F 3 "" H 8200 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW17
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW17
 U 1 1 5B7252F1
 P 9000 3550
 F 0 "SW17" H 9000 3700 50  0000 C CNN
@@ -367,7 +367,7 @@ F 3 "" H 9000 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW18
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW18
 U 1 1 5B725398
 P 9800 3550
 F 0 "SW18" H 9800 3700 50  0000 C CNN
@@ -378,7 +378,7 @@ F 3 "" H 9800 3550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D13
+L Lily58_Pro-rescue:D-Lily58-cache D13
 U 1 1 5B7254EE
 P 6100 3700
 F 0 "D13" V 6146 3621 50  0000 R CNN
@@ -389,7 +389,7 @@ F 3 "" H 6100 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D14
+L Lily58_Pro-rescue:D-Lily58-cache D14
 U 1 1 5B7255FF
 P 6900 3700
 F 0 "D14" V 6946 3621 50  0000 R CNN
@@ -400,7 +400,7 @@ F 3 "" H 6900 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D15
+L Lily58_Pro-rescue:D-Lily58-cache D15
 U 1 1 5B72571C
 P 7700 3700
 F 0 "D15" V 7746 3621 50  0000 R CNN
@@ -411,7 +411,7 @@ F 3 "" H 7700 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D16
+L Lily58_Pro-rescue:D-Lily58-cache D16
 U 1 1 5B725841
 P 8500 3700
 F 0 "D16" V 8546 3621 50  0000 R CNN
@@ -422,7 +422,7 @@ F 3 "" H 8500 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D17
+L Lily58_Pro-rescue:D-Lily58-cache D17
 U 1 1 5B72596D
 P 9300 3700
 F 0 "D17" V 9346 3621 50  0000 R CNN
@@ -433,7 +433,7 @@ F 3 "" H 9300 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D18
+L Lily58_Pro-rescue:D-Lily58-cache D18
 U 1 1 5B725AA2
 P 10100 3700
 F 0 "D18" V 10146 3621 50  0000 R CNN
@@ -444,7 +444,7 @@ F 3 "" H 10100 3700 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW21
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW21
 U 1 1 5B726F89
 P 7400 4200
 F 0 "SW21" H 7400 4350 50  0000 C CNN
@@ -455,7 +455,7 @@ F 3 "" H 7400 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW22
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW22
 U 1 1 5B727035
 P 8200 4200
 F 0 "SW22" H 8200 4350 50  0000 C CNN
@@ -466,7 +466,7 @@ F 3 "" H 8200 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW23
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW23
 U 1 1 5B7270F6
 P 9000 4200
 F 0 "SW23" H 9000 4350 50  0000 C CNN
@@ -477,7 +477,7 @@ F 3 "" H 9000 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW24
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW24
 U 1 1 5B7271A5
 P 9800 4200
 F 0 "SW24" H 9800 4350 50  0000 C CNN
@@ -488,7 +488,7 @@ F 3 "" H 9800 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW20
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW20
 U 1 1 5B727256
 P 6600 4200
 F 0 "SW20" H 6600 4350 50  0000 C CNN
@@ -499,7 +499,7 @@ F 3 "" H 6600 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW19
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW19
 U 1 1 5B727312
 P 5800 4200
 F 0 "SW19" H 5800 4350 50  0000 C CNN
@@ -510,7 +510,7 @@ F 3 "" H 5800 4200 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D19
+L Lily58_Pro-rescue:D-Lily58-cache D19
 U 1 1 5B72767A
 P 6100 4350
 F 0 "D19" V 6146 4271 50  0000 R CNN
@@ -521,7 +521,7 @@ F 3 "" H 6100 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D20
+L Lily58_Pro-rescue:D-Lily58-cache D20
 U 1 1 5B7277CE
 P 6900 4350
 F 0 "D20" V 6946 4271 50  0000 R CNN
@@ -532,7 +532,7 @@ F 3 "" H 6900 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D21
+L Lily58_Pro-rescue:D-Lily58-cache D21
 U 1 1 5B727929
 P 7700 4350
 F 0 "D21" V 7746 4271 50  0000 R CNN
@@ -543,7 +543,7 @@ F 3 "" H 7700 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D22
+L Lily58_Pro-rescue:D-Lily58-cache D22
 U 1 1 5B727A89
 P 8500 4350
 F 0 "D22" V 8546 4271 50  0000 R CNN
@@ -554,7 +554,7 @@ F 3 "" H 8500 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D23
+L Lily58_Pro-rescue:D-Lily58-cache D23
 U 1 1 5B727BFE
 P 9300 4350
 F 0 "D23" V 9346 4271 50  0000 R CNN
@@ -565,7 +565,7 @@ F 3 "" H 9300 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D24
+L Lily58_Pro-rescue:D-Lily58-cache D24
 U 1 1 5B727D79
 P 10100 4350
 F 0 "D24" V 10146 4271 50  0000 R CNN
@@ -576,7 +576,7 @@ F 3 "" H 10100 4350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW27
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW27
 U 1 1 5B7293B0
 P 7400 4850
 F 0 "SW27" H 7400 5000 50  0000 C CNN
@@ -587,7 +587,7 @@ F 3 "" H 7400 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW28
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW28
 U 1 1 5B734347
 P 8200 4850
 F 0 "SW28" H 8200 5000 50  0000 C CNN
@@ -598,7 +598,7 @@ F 3 "" H 8200 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:SW_PUSH SW29
+L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW29
 U 1 1 5B73449B
 P 9000 4850
 F 0 "SW29" H 9000 5000 50  0000 C CNN
@@ -609,7 +609,7 @@ F 3 "" H 9000 4850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:D D25
+L Lily58_Pro-rescue:D-Lily58-cache D25
 U 1 1 5B734844
 P 6100 5000
 F 0 "D25" V 6146 4921 50  0000 R CNN
@@ -620,7 +620,7 @@ F 3 "" H 6100 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D26
+L Lily58_Pro-rescue:D-Lily58-cache D26
 U 1 1 5B7349D1
 P 6900 5000
 F 0 "D26" V 6946 4921 50  0000 R CNN
@@ -631,7 +631,7 @@ F 3 "" H 6900 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D27
+L Lily58_Pro-rescue:D-Lily58-cache D27
 U 1 1 5B734B62
 P 7700 5000
 F 0 "D27" V 7746 4921 50  0000 R CNN
@@ -642,7 +642,7 @@ F 3 "" H 7700 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D28
+L Lily58_Pro-rescue:D-Lily58-cache D28
 U 1 1 5B734CF9
 P 8500 5000
 F 0 "D28" V 8546 4921 50  0000 R CNN
@@ -653,7 +653,7 @@ F 3 "" H 8500 5000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:D D29
+L Lily58_Pro-rescue:D-Lily58-cache D29
 U 1 1 5B734F9E
 P 9300 5000
 F 0 "D29" V 9346 4921 50  0000 R CNN
@@ -701,7 +701,7 @@ Text GLabel 3850 2700 2    50   Input ~ 0
 col0
 NoConn ~ 2550 2700
 $Comp
-L Lily58-cache:VCC #PWR04
+L Lily58_Pro-rescue:VCC-Lily58-cache #PWR04
 U 1 1 5B736B57
 P 4150 2400
 F 0 "#PWR04" H 4150 2250 50  0001 C CNN
@@ -733,7 +733,7 @@ row3
 Text GLabel 2550 3200 0    50   Input ~ 0
 row4
 $Comp
-L Lily58-cache:VCC #PWR05
+L Lily58_Pro-rescue:VCC-Lily58-cache #PWR05
 U 1 1 5B739B47
 P 4400 4800
 F 0 "#PWR05" H 4400 4650 50  0001 C CNN
@@ -744,7 +744,7 @@ F 3 "" H 4400 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:VCC #PWR06
+L Lily58_Pro-rescue:VCC-Lily58-cache #PWR06
 U 1 1 5B739CDC
 P 4550 4800
 F 0 "#PWR06" H 4550 4650 50  0001 C CNN
@@ -755,7 +755,7 @@ F 3 "" H 4550 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:R R1
+L Lily58_Pro-rescue:R-Lily58-cache R1
 U 1 1 5B739F4A
 P 4400 4950
 F 0 "R1" V 4500 4950 50  0000 C BNN
@@ -766,7 +766,7 @@ F 3 "" H 4400 4950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:R R2
+L Lily58_Pro-rescue:R-Lily58-cache R2
 U 1 1 5B73A034
 P 4550 4950
 F 0 "R2" V 4650 4950 50  0000 C BNN
@@ -779,7 +779,7 @@ $EndComp
 Text GLabel 4400 5100 3    50   Input ~ 0
 SDA
 $Comp
-L Lily58-cache:MJ-4PP-9 J2
+L Lily58_Pro-rescue:MJ-4PP-9-Lily58-cache J2
 U 1 1 5B742D8C
 P 2700 4350
 F 0 "J2" H 2650 4650 60  0000 C CNN
@@ -790,7 +790,7 @@ F 3 "" H 2700 4300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:LED J1
+L Lily58_Pro-rescue:LED-Lily58-cache J1
 U 1 1 5B74AE32
 P 4000 3550
 F 0 "J1" H 4000 3750 50  0000 C CNN
@@ -801,7 +801,7 @@ F 3 "" H 4000 3550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:VCC #PWR07
+L Lily58_Pro-rescue:VCC-Lily58-cache #PWR07
 U 1 1 5B74B06A
 P 4200 3450
 F 0 "#PWR07" H 4200 3300 50  0001 C CNN
@@ -812,7 +812,7 @@ F 3 "" H 4200 3450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:GND #PWR08
+L Lily58_Pro-rescue:GND-Lily58-cache #PWR08
 U 1 1 5B74B15A
 P 4200 3650
 F 0 "#PWR08" H 4200 3400 50  0001 C CNN
@@ -825,7 +825,7 @@ $EndComp
 Text GLabel 4200 3550 2    50   Input ~ 0
 LED
 $Comp
-L Lily58-cache:GND #PWR010
+L Lily58_Pro-rescue:GND-Lily58-cache #PWR010
 U 1 1 5B74C10F
 P 2350 3700
 F 0 "#PWR010" H 2350 3450 50  0001 C CNN
@@ -838,7 +838,7 @@ $EndComp
 Text GLabel 2650 3700 2    50   Input ~ 0
 RESET
 $Comp
-L Lily58-cache:PWR_FLAG #FLG01
+L Lily58_Pro-rescue:PWR_FLAG-Lily58-cache #FLG01
 U 1 1 5B74C681
 P 9900 6150
 F 0 "#FLG01" H 9900 6225 50  0001 C CNN
@@ -849,7 +849,7 @@ F 3 "" H 9900 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:GND #PWR012
+L Lily58_Pro-rescue:GND-Lily58-cache #PWR012
 U 1 1 5B74C7EB
 P 9900 6150
 F 0 "#PWR012" H 9900 5900 50  0001 C CNN
@@ -860,7 +860,7 @@ F 3 "" H 9900 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:VCC #PWR013
+L Lily58_Pro-rescue:VCC-Lily58-cache #PWR013
 U 1 1 5B74C8DE
 P 10250 6150
 F 0 "#PWR013" H 10250 6000 50  0001 C CNN
@@ -871,7 +871,7 @@ F 3 "" H 10250 6150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:PWR_FLAG #FLG02
+L Lily58_Pro-rescue:PWR_FLAG-Lily58-cache #FLG02
 U 1 1 5B74C9D1
 P 10250 6150
 F 0 "#FLG02" H 10250 6225 50  0001 C CNN
@@ -882,7 +882,7 @@ F 3 "" H 10250 6150 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Lily58-cache:HOLE TH1
+L Lily58_Pro-rescue:HOLE-Lily58-cache TH1
 U 1 1 5B74CE27
 P 7100 6150
 F 0 "TH1" H 7100 6150 60  0000 C CNN
@@ -893,7 +893,7 @@ F 3 "" H 7100 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:HOLE TH2
+L Lily58_Pro-rescue:HOLE-Lily58-cache TH2
 U 1 1 5B74D0C7
 P 7450 6150
 F 0 "TH2" H 7450 6150 60  0000 C CNN
@@ -904,7 +904,7 @@ F 3 "" H 7450 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:HOLE TH4
+L Lily58_Pro-rescue:HOLE-Lily58-cache TH4
 U 1 1 5B74D1C0
 P 8450 6150
 F 0 "TH4" H 8450 6150 60  0000 C CNN
@@ -915,7 +915,7 @@ F 3 "" H 8450 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:HOLE TH5
+L Lily58_Pro-rescue:HOLE-Lily58-cache TH5
 U 1 1 5B74D78B
 P 8800 6150
 F 0 "TH5" H 8800 6150 60  0000 C CNN
@@ -926,7 +926,7 @@ F 3 "" H 8800 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:HOLE TH6
+L Lily58_Pro-rescue:HOLE-Lily58-cache TH6
 U 1 1 5B74D88C
 P 9150 6150
 F 0 "TH6" H 9150 6150 60  0000 C CNN
@@ -937,7 +937,7 @@ F 3 "" H 9150 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:HOLE TH7
+L Lily58_Pro-rescue:HOLE-Lily58-cache TH7
 U 1 1 5B74D98F
 P 9500 6150
 F 0 "TH7" H 9500 6150 60  0000 C CNN
@@ -948,7 +948,7 @@ F 3 "" H 9500 6150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:HOLE TH3
+L Lily58_Pro-rescue:HOLE-Lily58-cache TH3
 U 1 1 5B74DA95
 P 8100 6150
 F 0 "TH3" H 8100 6150 60  0000 C CNN
@@ -1104,7 +1104,7 @@ Wire Wire Line
 	6100 4500 5250 4500
 Connection ~ 6100 4500
 $Comp
-L Lily58-cache:SW_RST RSW1
+L Lily58_Pro-rescue:SW_RST-Lily58-cache RSW1
 U 1 1 5B8CE7E7
 P 2500 3700
 F 0 "RSW1" H 2500 3956 40  0000 C CNN
@@ -1115,7 +1115,7 @@ F 3 "" H 2500 3700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58-cache:GND #PWR0101
+L Lily58_Pro-rescue:GND-Lily58-cache #PWR0101
 U 1 1 5B8CD05E
 P 4150 2200
 F 0 "#PWR0101" H 4150 1950 50  0001 C CNN
@@ -1126,7 +1126,7 @@ F 3 "" H 4150 2200 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:GND #PWR0102
+L Lily58_Pro-rescue:GND-Lily58-cache #PWR0102
 U 1 1 5B8CD27F
 P 2300 2400
 F 0 "#PWR0102" H 2300 2150 50  0001 C CNN
@@ -1168,7 +1168,7 @@ Wire Wire Line
 Wire Wire Line
 	3150 4450 3250 4450
 $Comp
-L Lily58-cache:i2c_pin P1
+L Lily58_Pro-rescue:i2c_pin-Lily58-cache P1
 U 1 1 5B8F6780
 P 3550 4000
 F 0 "P1" H 3550 4100 50  0000 C CNN
@@ -1179,7 +1179,7 @@ F 3 "" H 3550 4000 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Lily58-cache:i2c_pin P2
+L Lily58_Pro-rescue:i2c_pin-Lily58-cache P2
 U 1 1 5B8F6980
 P 3550 4750
 F 0 "P2" H 3550 4650 50  0000 C CNN
@@ -1213,7 +1213,7 @@ DATA
 Text GLabel 4150 4550 2    50   Input ~ 0
 DATA
 $Comp
-L Lily58-cache:OLED J3
+L Lily58_Pro-rescue:OLED-Lily58-cache J3
 U 1 1 5B91007B
 P 2350 5100
 F 0 "J3" H 2350 4850 50  0000 C CNN
