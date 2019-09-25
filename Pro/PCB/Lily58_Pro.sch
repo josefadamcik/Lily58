@@ -26,17 +26,6 @@ F 3 "" H 3300 1600 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW25
-U 1 1 5B722503
-P 5800 4850
-F 0 "SW25" H 5800 5000 50  0000 C CNN
-F 1 "SW_PUSH" H 5800 4750 50  0000 C CNN
-F 2 "Lily58-footprint:CherryMX_KailhLowProfile_Hotswap" H 5800 4850 50  0001 C CNN
-F 3 "" H 5800 4850 50  0000 C CNN
-	1    5800 4850
-	1    0    0    -1  
-$EndComp
-$Comp
 L Lily58_Pro-rescue:SW_PUSH-Lily58-cache SW26
 U 1 1 5B722582
 P 6600 4850
@@ -716,12 +705,10 @@ RESET
 NoConn ~ 3850 2100
 Text GLabel 2550 2100 0    50   Input ~ 0
 LED
-NoConn ~ 3850 2600
 Text GLabel 2550 2600 0    50   Input ~ 0
 SCL
 Text GLabel 2550 2500 0    50   Input ~ 0
 SDA
-NoConn ~ 3850 2500
 Text GLabel 2550 2800 0    50   Input ~ 0
 row0
 Text GLabel 2550 2900 0    50   Input ~ 0
@@ -784,7 +771,7 @@ U 1 1 5B742D8C
 P 2700 4350
 F 0 "J2" H 2650 4650 60  0000 C CNN
 F 1 "4PIN" H 2650 4050 60  0000 C CNN
-F 2 "Lily58-footprint:MJ-4PP-9" H 2700 4300 60  0001 C CNN
+F 2 "Lily58-footprint:MJ-4PP-9_rev3" H 2700 4300 60  0001 C CNN
 F 3 "" H 2700 4300 60  0000 C CNN
 	1    2700 4350
 	1    0    0    -1  
@@ -1430,4 +1417,58 @@ Connection ~ 9500 4200
 Wire Wire Line
 	9300 5150 10100 5150
 Connection ~ 9300 5150
+$Comp
+L Device:Rotary_Encoder_Switch SW25
+U 1 1 5DA04574
+P 4300 6150
+F 0 "SW25" H 4300 6517 50  0000 C CNN
+F 1 "Rotary_Encoder_Switch" H 4300 6426 50  0000 C CNN
+F 2 "Lily58-footprint:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-keebio_modified" H 4150 6310 50  0001 C CNN
+F 3 "~" H 4300 6410 50  0001 C CNN
+	1    4300 6150
+	1    0    0    -1  
+$EndComp
+Text GLabel 4900 6050 2    50   Input ~ 0
+SW25A
+Text GLabel 4900 6250 2    50   Input ~ 0
+SW25B
+Wire Wire Line
+	4600 6050 4900 6050
+Wire Wire Line
+	4600 6250 4900 6250
+Text GLabel 5550 4850 2    50   Input ~ 0
+SW25A
+Text GLabel 6100 4700 0    50   Input ~ 0
+SW25B
+Wire Wire Line
+	6100 4700 6100 4850
+Wire Wire Line
+	5500 4850 5550 4850
+Text GLabel 3850 2500 2    50   Input ~ 0
+ENCA
+Text GLabel 3850 2600 2    50   Input ~ 0
+ENCB
+Text GLabel 3850 6050 0    50   Input ~ 0
+ENCA
+Text GLabel 3850 6250 0    50   Input ~ 0
+ENCB
+Wire Wire Line
+	3850 6250 4000 6250
+Wire Wire Line
+	3850 6050 4000 6050
+$Comp
+L power:GND #PWR0103
+U 1 1 5DA35FE6
+P 3400 6250
+F 0 "#PWR0103" H 3400 6000 50  0001 C CNN
+F 1 "GND" H 3405 6077 50  0000 C CNN
+F 2 "" H 3400 6250 50  0001 C CNN
+F 3 "" H 3400 6250 50  0001 C CNN
+	1    3400 6250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4000 6150 3400 6150
+Wire Wire Line
+	3400 6150 3400 6250
 $EndSCHEMATC
