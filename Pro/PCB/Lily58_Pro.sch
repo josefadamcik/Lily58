@@ -1471,4 +1471,8 @@ Wire Wire Line
 	4000 6150 3400 6150
 Wire Wire Line
 	3400 6150 3400 6250
+Text Label 3350 4550 0    50   ~ 0
+i2c_d
+Text Label 3300 4200 0    50   ~ 0
+i2c_c
 $EndSCHEMATC
